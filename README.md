@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <h2> Hi, I'm dark-warlord14!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=dark-warlord14&show_icons=true&theme=radical" width="380">
 <br>
-<p><em>Security Engineer<br>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: dark_warlord14](https://img.shields.io/twitter/follow/dark_warlord14?style=flat-square)](https://twitter.com/dark_warlord14)
