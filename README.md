@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: hahwul](https://img.shields.io/twitter/follow/hahwul?style=flat-square)](https://twitter.com/dark_warlord14)
-[![GitHub hahwul](https://img.shields.io/github/followers/hahwul?label=follow%20github&style=flat-square)](https://github.com/dark-warlord14)
-[![Paypal hahwul](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/ShantanuGhumade)
+[![Twitter: dark_warlord14](https://img.shields.io/twitter/follow/dark_warlord14?style=flat-square)](https://twitter.com/dark_warlord14)
+[![GitHub dark-warlord14](https://img.shields.io/github/followers/dark-warlord14?label=follow%20github&style=flat-square)](https://github.com/dark-warlord14)
+[![Paypal dark_warlord14](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/ShantanuGhumade)
 
 <br>
