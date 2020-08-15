@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hi, I'm dark-warlord14!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dark-warlord14&show_icons=true&theme=radical" width="380">
+<br>
+  Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: hahwul](https://img.shields.io/twitter/follow/hahwul?style=flat-square)](https://twitter.com/dark_warlord14)
+[![GitHub hahwul](https://img.shields.io/github/followers/hahwul?label=follow%20github&style=flat-square)](https://github.com/dark-warlord14)
+[![Paypal hahwul](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/ShantanuGhumade)
+
+<br>
