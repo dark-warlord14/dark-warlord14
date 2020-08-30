@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi, I'm dark-warlord14!</h2>
+<h2> I'm dark-warlord14!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=dark-warlord14&show_icons=true&theme=radical" width="380">
 <br>
 <p><em>Security Consultant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
