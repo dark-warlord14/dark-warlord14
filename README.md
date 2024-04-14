@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Twitter: dark_warlord14](https://img.shields.io/twitter/follow/dark_warlord14?style=flat-square)](https://twitter.com/dark_warlord14)
 [![GitHub dark-warlord14](https://img.shields.io/github/followers/dark-warlord14?label=follow%20github&style=flat-square)](https://github.com/dark-warlord14)
-[![Paypal dark_warlord14](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/ShantanuGhumade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dark-warlord14/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-warlord14" alt="@xtz" /> </p>
 
 <br>
